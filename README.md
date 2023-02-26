@@ -1,3 +1,3 @@
-# rock-paper-and-scissors
+# rock-paper-and-scissors :
 
 #game
